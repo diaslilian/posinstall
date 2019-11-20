@@ -1,7 +1,7 @@
 
-# Automatização de instalação do Ubuntu
+## Automatização de instalação do Ubuntu
 
-## :information_source: How To Use
+### :information_source: How To Use
 Certique-se do arquivo ter permissões de execução.
 
 Para utilizar o Script, basta rodar o comando:
@@ -11,4 +11,4 @@ sudo ./posinstallubt.sh
 ```
 
 
-Created by Lilian Dias :wave: [Get in touch!](https://www.linkedin.com/in/dias-lilian/)
+Created by Lilian Dias :wave: [Hi-5!](https://www.linkedin.com/in/dias-lilian/)
